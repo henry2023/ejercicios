@@ -1,5 +1,5 @@
 notas = []
-for indice in range(1,6):
+for indice in range(1,5):
 	while True:
 		nota = int(input("Introduce nota: " ))
 		if nota>=0 and nota<=10: break
